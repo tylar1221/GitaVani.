@@ -5,6 +5,10 @@
 
 GitaVani is an AI-powered chatbot designed to share the timeless wisdom of the *Bhagavad Gita*. It provides personalized spiritual guidance, motivational insights, and context-specific advice, all inspired by Krishna's teachings.
 
+
+## 🌐 Access the App  
+You can access the deployed app here: [GitaVani](https://gitavani-wgqnj2xq2y9bgkcs9vp22w.streamlit.app/).
+
 ---
 
 ## 🌟 Features  
