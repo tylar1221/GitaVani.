@@ -1,4 +1,3 @@
-Here’s a structured **README.md** file for your Gita Chatbot project:
 
 ---
 
@@ -108,4 +107,3 @@ These features will make **GitaVani** more accessible, intuitive, and engaging f
 
 ---  
 
-Replace placeholders like `your-username` and `your_google_api_key` with actual details to personalize the README for your project.
