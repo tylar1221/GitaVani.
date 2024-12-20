@@ -81,48 +81,6 @@ GitaVani is an AI-powered chatbot designed to share the timeless wisdom of the *
 
 ---
 
-## 📄 Example Query  
-
-### User Input  
-*"I am struggling with making decisions. What should I do?"*  
-
-### Chatbot Response  
-**Sanskrit Verse:**  
-*कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।  
-मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥*  
-(*Karmanyevadhikaraste ma phaleshu kadachana,  
-Ma karmaphalahetur bhur ma te sango’stvakarmani.*)  
-— *Bhagavad Gita* (Chapter 2, Verse 47)  
-
-**Translation:**  
-"Your right is to perform your duty, but never to its fruits. Do not let the fruits of action be your motive, nor let your attachment be to inaction."  
-
-**Explanation:**  
-This verse emphasizes focusing on your duties with dedication and detachment from outcomes. Let your actions be guided by purpose and sincerity, rather than fear or desire for results.  
-
----
-
-## 🤝 Contributing  
-We welcome contributions! To contribute:  
-1. Fork the repository.  
-2. Create a feature branch: `git checkout -b feature-name`.  
-3. Commit your changes: `git commit -m 'Add a feature'`.  
-4. Push to the branch: `git push origin feature-name`.  
-5. Open a pull request.
-
----
-
-## 🌟 Future Enhancements  
-- **Advanced NLP Capabilities**: Improve contextual understanding for better responses.  
-- **Expanded Verse Library**: Add more verses and commentaries for comprehensive guidance.  
-- **Mobile App Version**: Develop a mobile-friendly interface for broader accessibility.  
-
----
-
-## 📜 License  
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.  
-
----
 
 ## Upcoming Features
 
